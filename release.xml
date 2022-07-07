@@ -3,16 +3,16 @@
     <channel>
         <title>Atua</title>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.0.0+1</title>
             <description>Atua</description>
-            <pubDate>7 Julio 2022 03:00:00 +0000</pubDate>
-            <enclosure url="Aqui va la url de la playstore" sparkle:version="1.1.0" sparkle:os="android" />
+            <pubDate>7 Julio 2022 00:00:00 +0000</pubDate>
+            <enclosure url="Aqui va la url de la playstore" sparkle:version="1.0.0+1" sparkle:os="android" />
         </item>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.0.0+1</title>
             <description>Atua</description>
-            <pubDate>7 Julio 2022 03:00:00 +0000</pubDate>
-            <enclosure url="Aqui va la url de la app store" sparkle:version="1.1.0" sparkle:os="ios" />
+            <pubDate>7 Julio 2022 00:00:00 +0000</pubDate>
+            <enclosure url="Aqui va la url de la app store" sparkle:version="1.0.0+1" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
