@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Atua</title>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>Atua</description>
+            <pubDate>7 Julio 2022 00:00:00 +0000</pubDate>
+            <enclosure url="Aqui va la url de la playstore" sparkle:version="1.0.0" sparkle:os="android" />
+        </item>
+        <item>
+            <title>Version 1.0.0</title>
+            <description>Atua</description>
+            <pubDate>7 Julio 2022 00:00:00 +0000</pubDate>
+            <enclosure url="Aqui va la url de la app store" sparkle:version="1.0.0" sparkle:os="ios" />
+        </item>
+    </channel>
+</rss>
